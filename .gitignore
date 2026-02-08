@@ -17,3 +17,8 @@ main.log.i
 allres.txt
 *.csv
 *.xlsx
+cuda_13.1.1_590.48.01_linux.run
+cuda-keyring_1.1-1_all.deb
+difflogic_cuda.cpython-311-x86_64-linux-gnu.so
+iris_model.pth
+results.csv
