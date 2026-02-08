@@ -2,6 +2,7 @@ from typing import Optional, Union
 
 import numpy as np
 import torch
+import difflogic_cuda
 from pysat.formula import Formula
 
 from .functional import (
